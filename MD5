@@ -1,0 +1,15 @@
+ae1322a5b1471f1216889a39dcda1c91 *DESCRIPTION
+183f8ad1315654cbace0c52eefe44d2c *LICENSE
+7c9de59cba70faca5afb48c4b1acbc0e *NAMESPACE
+5a3845cacea08040aec3d9cc63a48d19 *NEWS.md
+8843b8c28e24e02298eb64c1e8dd240a *R/random_useragent.R
+659dd767f6d16e57cd8133ddf87c2603 *R/sysdata.rda
+cfe3c29e6f68db56660c241ac3503f20 *README.md
+c5ec1895a6f141bcd5c660a9677d3709 *build/vignette.rds
+5043fdac2a03c4c43f8d70a9d5802c2a *inst/doc/Tutorial.R
+1de619753159153c5f30c3df1507efc3 *inst/doc/Tutorial.Rmd
+f1a081aa14f121201ce2ad190054b06d *inst/doc/Tutorial.html
+4f581a7b27557b49e652da5e346475ff *man/figures/README-pressure-1.png
+239c9364169787c73174f1c4ddd0eeb6 *man/filter_useragent.Rd
+d5a3eddc58f3141e880af8fa724e81e1 *man/random_useragent.Rd
+1de619753159153c5f30c3df1507efc3 *vignettes/Tutorial.Rmd
